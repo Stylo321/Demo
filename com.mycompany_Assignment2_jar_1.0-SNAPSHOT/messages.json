@@ -1,0 +1,97 @@
+{
+    "totalMessages": 12,
+    "messages": [
+        {
+            "recipient": "+27684893824",
+            "messageID": "999999999",
+            "message": "Wussup Beijin",
+            "hash": "99:1:WUSSUPBEIJIN"
+        },
+        {
+            "recipient": "+276892468952",
+            "messageID": "3",
+            "message": "i love I loveee",
+            "hash": "3:2:ILOVEEE"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27684893824",
+            "messageID": "Classified",
+            "message": "Pvpb`li`%kjhd%pilka`%pOjmk%F`kd:",
+            "hash": "CL:3:USUGEZILECENA?",
+            "timestamp": "2025-05-18 21:09:11"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27968489635",
+            "messageID": "Classified",
+            "message": "Mjr%dw`%\\jp:",
+            "hash": "CL:4:HOWYOU?",
+            "timestamp": "2025-05-18 21:10:04"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27698245655",
+            "messageID": "Class",
+            "message": "Ml%Klbbd%Hdk",
+            "hash": "CL:5:HIMAN",
+            "timestamp": "2025-05-18 22:21:50"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27698245655",
+            "messageID": "HI",
+            "message": "\\jp%ili%Glqfm",
+            "hash": "HI:6:YOUBITCH",
+            "timestamp": "2025-05-18 22:22:19"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27698245655",
+            "messageID": "COLD",
+            "message": "KLBBD%BDKB%GDKB",
+            "hash": "CO:7:NIGGABANG",
+            "timestamp": "2025-05-18 22:26:24"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27986895324\\",
+            "messageID": "Bitch",
+            "message": "M`%vfdw`a%jc%qm`%upvv|)%m`%vfdw`a$$$$",
+            "hash": "BI:8:HESCARED!!!!",
+            "timestamp": "2025-05-24 19:40:36"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27123456789",
+            "messageID": "HELLO",
+            "message": "Mur%dw`%|jp",
+            "hash": "HE:9:HPWYOU",
+            "timestamp": "2025-05-25 19:18:14"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27123456789",
+            "messageID": "Hello",
+            "message": "Mjr%dw`%|jp:",
+            "hash": "HE:10:HOWYOU?",
+            "timestamp": "2025-05-25 19:21:04"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27123456789",
+            "messageID": "ABC\"'",
+            "message": "Rm`w`%dw`%|jp%cwjh:",
+            "hash": "AB:11:WHEREFROM?",
+            "timestamp": "2025-05-25 19:21:26"
+        },
+        {
+            "encrypted": true,
+            "recipient": "+27123456789",
+            "messageID": "ABC",
+            "message": "Drpi`i`%Kbdkl%kod",
+            "hash": "AB:12:AWULELENJA",
+            "timestamp": "2025-05-25 19:25:21"
+        }
+    ]
+}
