@@ -1,16 +1,6 @@
 
 
 
-
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-
-/* Aphiwe i was walking my sock but the rain was on fire so my squerrell got arrested with my burger...so basically we should make out
-
-*/
-
-
 package com.mycompany.assignment2;
 
 import java.io.File;
